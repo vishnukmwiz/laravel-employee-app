@@ -8,8 +8,8 @@
     <title>Employee App</title>
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="row">
+    
+        
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Employee App</a>
@@ -31,8 +31,8 @@
     </div>
   </div>
 </nav>
-        </div>
-
+        
+        <div class="container-fluid">
 @yield("content")
 
         </div>
