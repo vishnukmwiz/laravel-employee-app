@@ -24,6 +24,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/searchemployee">Search Employee</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/aboutus">About Us</a>
+        </li>
       </ul>
     </div>
   </div>
